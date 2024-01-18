@@ -1,4 +1,4 @@
-package ops;
+package opps;
 
 public class SLI_Account {
 	String name;
